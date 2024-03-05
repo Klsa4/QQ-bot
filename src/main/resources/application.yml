@@ -1,0 +1,8 @@
+server:
+  port: 80
+
+mybot:
+  appId: 102090753
+  token: 0WZ17nd69qUX4avE7bM9I2AMxd6b3KiI
+  appSecret: Uk0GXo5MduBSk2KcuCUn6Pi1KdxHbvFZ
+  QQNumber: 3889012529
